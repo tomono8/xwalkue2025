@@ -2,7 +2,7 @@
   "mappings": [
     "/content/xwalkue20252/:/",
     "/content/xwalkue20252/configuration:/.helix/config.json",
-    "/content/xwalkue202512/metadata:/metadata.json"
+    "/content/xwalkue20252/metadata:/metadata.json"
   ],
   "includes": [
     "/content/xwalkue20252/"
