@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/xwalkue20251/:/",
+    "/content/xwalkue20251/configuration:/.helix/config.json",
+    "/content/xwalkue20251/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/xwalkue20251/"
   ]
 }
